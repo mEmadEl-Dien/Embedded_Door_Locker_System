@@ -1,4 +1,4 @@
-Embedded_Door_Locker_Project
+# Embedded_Door_Locker_Project
 This is an Embedded field related project, which is done by the Layered model and drivers,
 
 This is a Door Locker system made by a LCD, dc-motor, buzzer, KeyPad and controlled by TWO AVR ATMEGA16 microcontrollers,
